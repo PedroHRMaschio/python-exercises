@@ -8,4 +8,4 @@ word_list = ["Hello", "Wo", ""]
 
 for word in word_list:
     reversed_word = "".join(reversed(word)) # also could use word[::-1]
-    print(f'word: {word} | reversed word: {reversed_word}') 
+    print(f'word: {word} | reversed word: {reversed_word}')
