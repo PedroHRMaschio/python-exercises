@@ -9,10 +9,10 @@
 # If no match is found, print the initial string.
 
 example_list = [
-    {"word": "Hello", "curr_char": "l", "new_char": "s"},
-    {"word": "World", "curr_char": "W", "new_char": "A"},
-    {"word": "Python", "curr_char": "P", "new_char": "x"},
-    {"word": "Python", "curr_char": "p", "new_char": "a"}
+    {"word": "Hello", "curr_char": "l", "new_char": "s"},   # Hesso
+    {"word": "World", "curr_char": "W", "new_char": "A"},   # Aord
+    {"word": "Python", "curr_char": "P", "new_char": "x"},  # xython
+    {"word": "Python", "curr_char": "p", "new_char": "a"}   # Python
 ]
 
 for example in example_list:

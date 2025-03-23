@@ -4,7 +4,11 @@
 
 # If the string is empty, print it intact.
 
-word_list = ["Hello", "Wo", ""]
+word_list = [
+    "Hello",    # olleH
+    "Wo",       # oW
+    ""          # 
+]
 
 for word in word_list:
     reversed_word = "".join(reversed(word)) # also could use word[::-1]

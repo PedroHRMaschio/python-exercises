@@ -5,10 +5,10 @@
 # If the string is empty, the program should print "Empty String"
 
 word_list = [
-    {"word": "Hello", "i": 2},
-    {"word": "Pizza", "i": 4},
-    {"word": "", "i": 3},
-    {"word": "World", "i": 15}
+    {"word": "Hello", "i": 2},  # l
+    {"word": "Pizza", "i": 4},  # a
+    {"word": "", "i": 3},       # This is an empty string.
+    {"word": "World", "i": 15}  # i out of range
 ]
 
 for example in word_list:

@@ -5,10 +5,10 @@
 # If the string s is empty, print the string s intact.
 
 word_list = [
-    {"word": "Hello", "n": 1},
-    {"word": "Pizza", "n": 3},
-    {"word": "Dog", "n": 15},
-    {"word": "", "n": 2}
+    {"word": "Hello", "n": 1},  # Hllo
+    {"word": "Pizza", "n": 3},  # Piza
+    {"word": "Dog", "n": 15},   # Dog
+    {"word": "", "n": 2}        # 
 ]
 
 for example in word_list:

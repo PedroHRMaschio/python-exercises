@@ -2,7 +2,11 @@
 
 # If the string has less than six characters, print an empty string (blank output).
 
-word_list = ["Blue", "Wonderful", "Amazing"]
+word_list = [
+    "Blue",         # 
+    "Wonderful",    # Wonful
+    "Amazing"       # Amaing
+]
 num_chars = 3
 
 for word in word_list:

@@ -2,11 +2,13 @@
 
 # If the string is empty or only has one character, print it without any changes.
 
-# "Coding" should return "oig"
-# "Pizza" should return "iz"
-# "Python" should return "yhn"
-
-word_list = ["Coding", "Pizza", "Python", "A", ""]
+word_list = [
+    "Coding",   # oig
+    "Pizza",    # iz
+    "Python",   # yhn
+    "A",        # A
+    ""          # 
+]
 
 for word in word_list:
     if len(word) < 2:
