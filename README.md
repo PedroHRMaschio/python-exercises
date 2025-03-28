@@ -6,4 +6,4 @@ This repository contains my solutions to exercises from a Python course on Udemy
 
 ✅ Completed exercises 1 to 20 on basic level
 
-✅ Completed exercises 1 to 2 on intermediate level
+✅ Completed exercises 1 to 7 on intermediate level
